@@ -78,7 +78,7 @@ function condicionesIniciales() {
 let numeroSecreto;
 let intentos = 1;
 let listaNumerosSorteados = [];
-let numeroMaximo = 100;
+let numeroMaximo = 50;
 
 
 
