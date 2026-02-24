@@ -56,7 +56,6 @@ function generarNumeroSecreto() {
 }
 
 function reiniciarJuego() {
-    //limpiar la caja
     limpiarCaja();
 
     //indicar mensaje de intervalo de números
