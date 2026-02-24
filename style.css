@@ -30,8 +30,8 @@ body::before {
 }
 
 .container {
-    width: 1200px;
-    height: 600px;
+    width: 1600px;
+    height: 800px;
     display: flex;
     align-items: center;
     justify-content: space-between;
