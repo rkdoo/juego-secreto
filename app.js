@@ -29,8 +29,6 @@ function asignarTextoElemento(elemento, texto) {
 }
 
 function generarNumeroSecreto() {
-
-
     //let numeroSecreto = Math.floor(Math.random()*10)+1;
     //return Math.floor(Math.random() * 10) + 1;
 
@@ -50,14 +48,10 @@ function generarNumeroSecreto() {
             return numeroGenerado;
         }
     }
-
-
-
 }
 
 function reiniciarJuego() {
     limpiarCaja();
-
     //indicar mensaje de intervalo de números
     //generar el número aleatorio
     //inicializar el número de intentos
@@ -78,8 +72,6 @@ let numeroSecreto;
 let intentos = 1;
 let listaNumerosSorteados = [];
 let numeroMaximo = 30;
-
-
 
 //asignarTextoElemento('h1', 'Juego del número secreto');
 //asignarTextoElemento('p', 'Indica un número del 1 al 10');
