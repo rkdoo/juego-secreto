@@ -4,6 +4,8 @@
 juego web donde pones a prueba tu intuición para adivinar un número
 generado aleatoriamente dentro de un rango específico.
 
+- GitHub Page Link: https://rkdoo.github.io/juego-secreto/
+
 ## Características
 
 - **Interfaz Limpia, Sencilla e Intuitiva**
